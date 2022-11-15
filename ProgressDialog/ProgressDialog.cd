@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="System.Windows.Forms.ProgressDialog">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>IProgressDialog.vb</FileName>
+      <HashCode>BAAQABAACihAEUKBwAIAAMACABBAYAAEIAQCgAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Field Name="__Animation" Hidden="true" />
+      <Field Name="__CancelMessage" Hidden="true" />
+      <Field Name="__Complete" Hidden="true" />
+      <Field Name="__Dialog" Hidden="true" />
+      <Field Name="__DlgClosed" Hidden="true" />
+      <Field Name="__Flags" Hidden="true" />
+      <Field Name="__hShellAnimation" Hidden="true" />
+      <Field Name="__HWND" Hidden="true" />
+      <Field Name="__Title" Hidden="true" />
+      <Field Name="__Total" Hidden="true" />
+      <Field Name="__UserCancelled" Hidden="true" />
+      <Method Name="Finalize" Hidden="true" />
+      <Method Name="LoadLibraryEx" Hidden="true" />
+      <Field Name="MAX_CAPACITY" Hidden="true" />
+      <Method Name="PathCompactPathEx" Hidden="true" />
+      <Field Name="PDTIMER_RESET" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="System.Windows.Forms.ProgressDialog.dlgAnimations" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>IProgressDialog.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="System.Windows.Forms.ProgressDialog.dlgLines" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>IProgressDialog.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="System.Windows.Forms.ProgressDialog.IPD_Flags" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>IProgressDialog.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="System.Windows.Forms.ProgressDialog.LoadLibraryExFlags" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>IProgressDialog.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="System.Windows.Forms.winProgressDialog">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>IProgressDialog.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="System.Windows.Forms.IProgressDialog">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IProgressDialog.vb</FileName>
+      <HashCode>AAAAAAAUAAgAQAAAAAACAAAAAAAAAAAAAAAAAAgkEAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>
